@@ -75,7 +75,7 @@
 - 数据库相关：MySQL/Redis/Memcached/Mongodb/Tidb
 - 版本管理、文档和自动化部署工具：Svn/Git/Swagger/Jenkins/Docker/K8s
 - 单元测试：PHPUnit
-- 云和开放平台：微信开放平台/小程序/公众号/阿里云市场等
+- 开放平台：微信开放平台/微信公众号/小程序等
 - 其他：C/Go
 
 
