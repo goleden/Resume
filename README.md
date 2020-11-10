@@ -72,13 +72,16 @@
 - Web开发：PHP/Node
 - Web框架：CI/ThinkPHP/Yii/Hyperf
 - 前端框架：jQuery/Bootstrap/HTML5/Vue/ElementUI/Vant
-- 数据库相关：MySQL/Tidb/Redis/Memcached/Mongodb/ES
+- 通讯：Http/Websocket/MQTT
+- 数据库相关：MySQL/Tidb/Redis/Memcached/Mongodb/ES/Xunsearch/RabbitMQ
 - 版本管理：Svn/Git
 - 文档：Swagger/Jira/腾讯文档
 - 自动化部署：Jenkins/Docker/K8s
 - 单元测试：PHPUnit/Codeception/Selenium
 - 开放平台：微信开放平台/微信公众号/小程序等
-- 其他：Python/C/Go
+- 微服务：Consul/Zipkin/Apollo/Zuul/Kong
+- 运维：OpenFalcon/
+- 其他：Python/C/Go/Websocket
 
 
 ---
