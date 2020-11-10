@@ -76,7 +76,7 @@
 - 数据库相关：MySQL/Tidb/Redis/Memcached/Mongodb/ES/Xunsearch/RabbitMQ
 - 版本管理：Svn/Git
 - 文档：Swagger/Jira/腾讯文档
-- 运维：Jenkins/Docker/K8s/OpenFalcon
+- 运维：Jenkins/Docker/Docker-compose/K8s/OpenFalcon
 - 单元测试：PHPUnit/Codeception/Selenium
 - 开放平台：微信开放平台/微信公众号/小程序等
 - 微服务：Consul/Zipkin/Apollo/Zuul/Kong
