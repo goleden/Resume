@@ -31,7 +31,7 @@
 
 ### 项目：电子合同
 
-合同线上签署，SAAS+PAAS。
+合同线上签署。
 
 技术栈: yii2 + redis + mysql + docker + vue + k8s + ios/andriod
 
