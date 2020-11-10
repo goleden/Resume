@@ -70,11 +70,13 @@
 # 技能清单
 
 - Web开发：PHP/Node
-- Web框架：ThinkPHP/Yii/Hyperf/CI
-- 前端框架：jQuery/Bootstrap/Vue/HTML5/ElementUI/Vant
-- 数据库相关：MySQL/Redis/Memcached/Mongodb/Tidb
-- 版本管理、文档和自动化部署工具：Svn/Git/Swagger/Jenkins/Docker/K8s
-- 单元测试：PHPUnit
+- Web框架：CI/ThinkPHP/Yii/Hyperf
+- 前端框架：jQuery/Bootstrap/HTML5/Vue/ElementUI/Vant
+- 数据库相关：MySQL/Tidb/Redis/Memcached/Mongodb
+- 版本管理：Svn/Git
+- 文档：Swagger/Jira/腾讯文档
+- 自动化部署：Jenkins/Docker/K8s
+- 单元测试：PHPUnit/codeception/selenium
 - 开放平台：微信开放平台/微信公众号/小程序等
 - 其他：C/Go
 
