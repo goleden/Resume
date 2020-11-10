@@ -72,7 +72,7 @@
 - Web开发：PHP/Node
 - Web框架：CI/ThinkPHP/Yii/Hyperf
 - 前端框架：jQuery/Bootstrap/HTML5/Vue/ElementUI/Vant
-- 数据库相关：MySQL/Tidb/Redis/Memcached/Mongodb
+- 数据库相关：MySQL/Tidb/Redis/Memcached/Mongodb/ES
 - 版本管理：Svn/Git
 - 文档：Swagger/Jira/腾讯文档
 - 自动化部署：Jenkins/Docker/K8s
