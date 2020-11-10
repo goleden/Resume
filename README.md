@@ -58,7 +58,8 @@
 
 - 职位：php
 
-### 智能建站 
+### 智能建站
+通过网站管理系统选择网站模板风格、创建网站栏目、维护网站内容。
 
 - 技术栈：Thinkphp/Yii + redis/memcached + mysql + nginx/apache
 
