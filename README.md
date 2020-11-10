@@ -38,6 +38,7 @@
 ### OCR
 
 对接第三方（腾讯、百度、阿里等），开发一个通用服务，供其他系统使用。
+
 技术栈：swoole + hyperf + redis + mysql + docker + k8s
 
  
@@ -51,6 +52,7 @@
 ### 一指秀
 
 图片相册内容分享平台，单日请求1000万+
+
 技术栈：Thinkphp + vue + redis + mysql + nginx + 分布式
 
 
@@ -61,6 +63,7 @@
 ### 智能建站
 
 通过网站管理系统选择网站模板风格、创建网站栏目、维护网站内容。
+
 技术栈：Thinkphp/Yii + redis/memcached + mysql + nginx/apache
 
 
