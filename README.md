@@ -30,15 +30,15 @@
 - 项目跟进
 
 ### 电子合同
-合同线上签署。无需邮寄。
 
-- 技术栈: yii2 + redis + mysql + docker + vue + k8s + ios/andriod
+合同线上签署。无需邮寄。
+技术栈: yii2 + redis + mysql + docker + vue + k8s + ios/andriod
 
 
 ### OCR
-对接第三方（腾讯、百度、阿里等），开发一个通用服务，供其他系统使用。
 
-- 技术栈：swoole + hyperf + redis + mysql + docker + k8s
+对接第三方（腾讯、百度、阿里等），开发一个通用服务，供其他系统使用。
+技术栈：swoole + hyperf + redis + mysql + docker + k8s
 
  
 ## 厦门创易 （ 2015年10月 ~ 2019年8月 ）
@@ -49,9 +49,9 @@
 - 项目开发
 
 ### 一指秀
-图片相册内容分享平台，单日请求1000万+
 
-- 技术栈：Thinkphp + vue + redis + mysql + nginx + 分布式
+图片相册内容分享平台，单日请求1000万+
+技术栈：Thinkphp + vue + redis + mysql + nginx + 分布式
 
 
 ## 三五互联 （ 2014年3月 ~ 2015年10月 ）
@@ -59,9 +59,9 @@
 - 职位：php
 
 ### 智能建站
-通过网站管理系统选择网站模板风格、创建网站栏目、维护网站内容。
 
-- 技术栈：Thinkphp/Yii + redis/memcached + mysql + nginx/apache
+通过网站管理系统选择网站模板风格、创建网站栏目、维护网站内容。
+技术栈：Thinkphp/Yii + redis/memcached + mysql + nginx/apache
 
 
 ## 开源项目
