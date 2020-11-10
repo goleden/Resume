@@ -81,7 +81,7 @@
 - 开放平台：微信开放平台/微信公众号/小程序等
 - 微服务：Consul/Zipkin/Apollo/Zuul/Kong
 - 运维：OpenFalcon/
-- 其他：Python/C/Go/Websocket
+- 其他：Python/C/Go
 
 
 ---
