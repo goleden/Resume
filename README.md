@@ -31,7 +31,7 @@
 
 公司内部crm系统，主要功能包括：客户+订单+支付+审批。
 
-技术栈：thinkphp + redis + mysql + docker + es + presto + vue
+技术栈：thinkphp6 + redis + mysql + docker + es + presto + vue
 
 
 ## 厦门纳网 （ 2019年8月 ~ 2021年2月 ）
