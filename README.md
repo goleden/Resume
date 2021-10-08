@@ -13,7 +13,6 @@
  - 本科/海南大学 
  - 10年工作经验/5年管理经验
  - Github：http://github.com/goleden
-
  - 期望薪资：税前月薪20k
  - 期望城市：厦门
 
@@ -80,10 +79,10 @@
 - 通讯：Http/Websocket/MQTT
 - 数据库相关：MySQL/Tidb/Redis/Memcached/Mongodb/ES/Xunsearch/RabbitMQ/Kafka
 - 版本管理：Svn/Git
-- 文档：Swagger/Jira/腾讯文档
+- 文档：Swagger/Apidoc/Jira
 - 运维：Jenkins/Docker/Docker-compose/K8s/OpenFalcon
 - 单元测试：PHPUnit/Codeception/Selenium
-- 开放平台：微信开放平台/微信公众号/小程序等
+- 开放平台：微信开放平台/微信公众号/微信小程序/钉钉开放平台等
 - 微服务：Consul/Zipkin/Apollo/Zuul/Kong
 - 其他：Python/C/Go/Solidity
 
