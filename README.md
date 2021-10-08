@@ -21,7 +21,7 @@
 
 # 工作经历
 
-## 厦门纳网 （ 2021年2月 ~ 至今 ）
+## 深圳船奇 （ 2021年2月 ~ 至今 ）
 
 - 职位：技术主管
 - 开发&架构&技术方案
@@ -58,7 +58,6 @@
 ## 厦门创易 （ 2015年10月 ~ 2019年8月 ）
 
 - 职位：技术经理
-- 团队管理（10人团队）
 - 基础框架开发
 - 项目开发
 
@@ -66,23 +65,12 @@
 
 图片相册内容分享平台，单日请求1000万+
 
-技术栈：Thinkphp + vue + redis + mysql + nginx + 分布式
-
-
-## 三五互联 （ 2014年3月 ~ 2015年10月 ）
-
-- 职位：php
-
-### 项目：智能建站
-
-通过网站管理系统选择网站模板风格、创建网站栏目、维护网站内容。
-
-技术栈：Thinkphp/Yii + redis/memcached + mysql + nginx/apache
+技术栈：Thinkphp + vue + redis + mysql + nginx
 
 
 ## 开源项目
 
- - [convert](https://github.com/goleden/convert)：文件转换工具 + composer开发
+ - [convert](https://github.com/goleden/convert)：文件转换工具
 
 # 技能清单
 
