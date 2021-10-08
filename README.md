@@ -14,12 +14,25 @@
  - 10年工作经验/5年管理经验
  - Github：http://github.com/goleden
 
- - 期望薪资：税前月薪20k，特别喜欢的公司可例外
+ - 期望薪资：税前月薪20k
  - 期望城市：厦门
 
 ---
 
 # 工作经历
+
+## 厦门纳网 （ 2019年8月 ~ 至今 ）
+
+- 职位：技术主管
+- 开发&架构&技术方案
+- codereview&复盘
+
+### 项目：CRM客户关系系统
+
+公司内部crm系统，主要功能包括：客户+订单+支付+审批。
+
+技术栈：thinkphp + redis + mysql + docker + es + presto + vue
+
 
 ## 厦门纳网 （ 2019年8月 ~ 至今 ）
 
@@ -84,7 +97,7 @@
 - 单元测试：PHPUnit/Codeception/Selenium
 - 开放平台：微信开放平台/微信公众号/小程序等
 - 微服务：Consul/Zipkin/Apollo/Zuul/Kong
-- 其他：Python/C/Go
+- 其他：Python/C/Go/Solidity
 
 
 ---
