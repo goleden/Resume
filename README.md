@@ -31,7 +31,7 @@
 
 公司内部crm系统，主要功能包括：客户+订单+支付+审批。
 
-技术栈：thinkphp6 + redis + mysql + docker + es + kafaka + presto + vue
+技术栈：thinkphp6 + redis + mysql + kafka + es + presto + vue + docker
 
 
 ## 厦门纳网 （ 2019年8月 ~ 2021年2月 ）
@@ -78,7 +78,7 @@
 - Web框架：CI/ThinkPHP/Yii/Hyperf
 - 前端框架：jQuery/Bootstrap/HTML5/Vue/ElementUI/Vant
 - 通讯：Http/Websocket/MQTT
-- 数据库相关：MySQL/Tidb/Redis/Memcached/Mongodb/ES/Xunsearch/RabbitMQ
+- 数据库相关：MySQL/Tidb/Redis/Memcached/Mongodb/ES/Xunsearch/RabbitMQ/Kafka
 - 版本管理：Svn/Git
 - 文档：Swagger/Jira/腾讯文档
 - 运维：Jenkins/Docker/Docker-compose/K8s/OpenFalcon
