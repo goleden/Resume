@@ -75,7 +75,7 @@
 ## 技能清单
 
 - Web开发：PHP/Node
-- Web框架：CI/ThinkPHP/Yii/Hyperf
+- Web框架：CI/ThinkPHP/Yii/Hyperf/Beego
 - 前端框架：jQuery/Bootstrap/HTML5/Vue/ElementUI/Vant
 - 通讯：Http/Websocket/MQTT
 - 数据库相关：MySQL/Tidb/Redis/Memcached/Mongodb/ES/Xunsearch/RabbitMQ/Kafka/Presto
