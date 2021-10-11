@@ -7,7 +7,7 @@
 
 ## 个人信息
 
- - 郭瑞典/男/1989
+ - 郭瑞典/男/江西抚州/1989
  - 本科/海南大学/2011毕业
  - 10年工作经验/5年管理经验
  - Github：http://github.com/goleden
@@ -78,7 +78,7 @@
 - Web框架：CI/ThinkPHP/Yii/Hyperf
 - 前端框架：jQuery/Bootstrap/HTML5/Vue/ElementUI/Vant
 - 通讯：Http/Websocket/MQTT
-- 数据库相关：MySQL/Tidb/Redis/Memcached/Mongodb/ES/Xunsearch/RabbitMQ/Kafka
+- 数据库相关：MySQL/Tidb/Redis/Memcached/Mongodb/ES/Xunsearch/RabbitMQ/Kafka/Presto
 - 版本管理：Svn/Git
 - 文档：Swagger/Apidoc/Jira
 - 运维：Jenkins/Docker/Docker-compose/K8s/OpenFalcon
@@ -87,9 +87,7 @@
 - 微服务：Consul/Zipkin/Apollo/Zuul/Kong
 - 其他：Python/C/Go/Solidity
 
-
 ---
-
 
 ## 致谢
 
