@@ -74,18 +74,18 @@
 
 ## 技能清单
 
-- Web开发：PHP/Node
-- Web框架：CI/ThinkPHP/Yii/Hyperf/Beego
+- Web开发：PHP/Go
+- Web框架：CI/ThinkPHP/Yii/Hyperf/Beego/go-zero
 - 前端框架：jQuery/Bootstrap/HTML5/Vue/ElementUI/Vant
 - 通讯：Http/Websocket/MQTT
 - 数据库相关：MySQL/Tidb/Redis/Memcached/Mongodb/ES/Xunsearch/RabbitMQ/Kafka/Presto
 - 版本管理：Svn/Git
-- 文档：Swagger/Apidoc/Jira
-- 运维：Jenkins/Docker/Docker-compose/K8s/OpenFalcon
+- 文档：Swagger/Apidoc/Jira/Yapi
+- 运维：Jenkins/Docker/Docker-compose/K8s/OpenFalcon/Prometheus/Grafana
 - 单元测试：PHPUnit/Codeception/Selenium
 - 开放平台：微信开放平台/微信公众号/微信小程序/钉钉开放平台等
 - 微服务：Consul/Zipkin/Apollo/Zuul/Kong
-- 其他：Python/C/Go/Solidity
+- 其他：Python/C/Solidity
 
 ---
 
